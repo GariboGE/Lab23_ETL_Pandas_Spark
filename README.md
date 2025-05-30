@@ -84,6 +84,7 @@ df = spark.createDataFrame(data, ["name", "age"])
 # Show the DataFrame
 df.show()
 ```
+But yoiu have my notebook in workspace to see more examples
 
 ## Executive Report
 
